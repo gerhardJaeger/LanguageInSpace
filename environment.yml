@@ -6,5 +6,6 @@ dependencies:
   - r-sf
   - r-spdata
   - rise
+  - r-terra
   
   
