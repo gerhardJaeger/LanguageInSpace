@@ -10,5 +10,4 @@ dependencies:
   - r-terra
   - r-ggrepel
   - r-rmapshaper
-  - r-ggdenrdo
   - r-ggdendro
