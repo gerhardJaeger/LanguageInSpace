@@ -1,5 +1,5 @@
 channels:
-  - conda-forge
+  - conda-forge bioconda
 dependencies:
   - r-base=4.0
   - r-tidyverse
@@ -10,7 +10,4 @@ dependencies:
   - r-ggrepel
   - r-rmapshaper
   - r-ggdenrdo
-channels:
-  - bioconda
-dependencies:
   - r-ggdenrdo
