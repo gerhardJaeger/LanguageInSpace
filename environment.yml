@@ -10,3 +10,7 @@ dependencies:
   - r-ggrepel
   - r-rmapshaper
   - r-ggdenrdo
+channels:
+  - bioconda
+dependencies:
+  - r-ggdenrdo
