@@ -1,7 +1,7 @@
 install.packages("tidyverse")
 install.packages("sf")
 install.packages("spData")
-#install.packages("terra")
+install.packages("terra")
 #install.packages("ggrepel")
 #install.packages("rmapshaper")
 #install.packages("ggendro")
