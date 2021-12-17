@@ -5,4 +5,4 @@ These are the Jupyter notebooks from the course *Language in Space* that I am te
 
 Jupyterlab [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gerhardJaeger/LanguageInSpace/HEAD)
 
-RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/gerhardJaeger/LanguageInSpace/r/master?urlpath=rstudio)
+RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/gerhardJaeger/LanguageInSpace/master?urlpath=rstudio)
