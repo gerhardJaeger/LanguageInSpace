@@ -2,3 +2,7 @@ libudunits2-dev
 libgdal-dev
 libgeos-dev
 libproj-dev
+libprotobuf-dev
+libjq-dev
+libv8-dev
+
