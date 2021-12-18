@@ -5,4 +5,5 @@ libproj-dev
 libprotobuf-dev
 libjq-dev
 libv8-dev
-
+libprotobuf-dev
+protobuf-compiler
