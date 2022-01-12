@@ -11,5 +11,5 @@ install.packages("tmap")
 install.packages("leaflet")
 install.packages("raster")
 install.packages("gifski")
-install.packages("RColorBrewer")
+
 
