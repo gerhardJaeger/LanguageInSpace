@@ -2,14 +2,6 @@ install.packages("tidyverse")
 install.packages("sf")
 install.packages("spData")
 install.packages("terra")
-install.packages("ggrepel")
-install.packages("rmapshaper")
-install.packages("ggdendro")
-install.packages("maptiles")
-install.packages("ggspatial")
-install.packages("tmap")
-install.packages("leaflet")
-install.packages("raster")
-install.packages("gifski")
+
 
 
