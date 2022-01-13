@@ -2,7 +2,14 @@ channels:
   - conda-forge
   - r
 dependencies:
+  - r-base=3.6
   - rise
   - jupyter_nbextensions_configurator
   - r-tidyverse
+  - r-sf
+  - r-spdata
+  - r-terra
+  - r-ggrepel
+  - r-rmapshaper
+  - r-ggdendro
   
