@@ -1,5 +1,8 @@
 channels:
   - conda-forge
+  - r
 dependencies:
   - rise
   - jupyter_nbextensions_configurator
+  - r-tidyverse
+  
