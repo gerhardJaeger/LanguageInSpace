@@ -1,6 +1,7 @@
 channels:
   - conda-forge
   - r
+  - bioconda
 dependencies:
   - r-base=3.6
   - rise
@@ -16,4 +17,6 @@ dependencies:
   - r-leaflet
   - r-raster
   - r-gifski
+  - r-spdep
+  
   
