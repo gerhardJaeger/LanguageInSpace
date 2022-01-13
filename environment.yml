@@ -12,4 +12,8 @@ dependencies:
   - r-ggrepel
   - r-rmapshaper
   - r-ggdendro
+  - r-tmap
+  - r-leaflet
+  - r-raster
+  - r-gifski
   
