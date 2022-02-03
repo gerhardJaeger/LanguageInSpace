@@ -18,5 +18,4 @@ dependencies:
   - r-raster
   - r-gifski
   - r-spdep
-  
-  
+  - r-gstat
