@@ -19,3 +19,4 @@ dependencies:
   - r-gifski
   - r-spdep
   - r-gstat
+  - r-mgcv
